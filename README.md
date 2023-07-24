@@ -9,3 +9,4 @@ This assignment demonstrates the basic use of Git and GitHub. There will be a fe
 This project has gone through the following stages:
 1. This README was created with a brief overview.
 1. A feature branch was created, `feature.md` created, and this README updated.
+1. A description of the new feature was added.
