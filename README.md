@@ -10,3 +10,4 @@ This project has gone through the following stages:
 1. This README was created with a brief overview.
 1. A feature branch was created, `feature.md` created, and this README updated.
 1. A description of the new feature was added.
+1. The feature branch was merged into the master branch through a squash-merge strategy.
